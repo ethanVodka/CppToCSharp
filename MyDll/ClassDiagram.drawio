@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:20:29.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yT8r7k8gyWfIChnlI-Oz" version="20.8.16" type="github"><diagram name="ページ1" id="uw2IV64ag2YVH6CRgAxx">7VrbcqM4EP0aV8082MXFxvgxtpPZrXW2XEm2ZucppYAWNAHECDm28/UrQFwFtjKxA66ZJ1utlkDnNN0ttQb6wt99ISB0b7ENvYGm2LuBvhxommqYU/YTS/apxDRnqcAhyOZKheAevUIuVLh0g2wYVRQpxh5FYVVo4SCAFq3IACF4W1X7D3vVp4bAgYLg3gKeKP2KbOpyqWrMio4/IHJc/mhT4wv2QabMVxK5wMbbkki/HugLgjFN//m7BfRi8DJc0nE3Lb35ixEYUJkBP9YW+KJZHnh9fni9Df6OHl/+Gqp8mojusxVDmwHAm5hQFzs4AN51IZ0TvAlsGE+rsFahs8I4ZEKVCb9DSvecTbChmIlc6nu8F+4Q/TcePprw1rdSz3LHZ04a+6wRULIvDYqb38p9xbCklY1L1xcvqhW3DAO8IRY8ANaY2x8gDqQH9IycXfZZQOxD9j5sHIEeoOil+h6A26eT6/GhV4SAfUkhxCigUWnmdSxgCvxTm5iTdEb+oelKzRxq+tphffYnfYOsVVpKIUpM7C3mpl2KuXVgNtN3mk2Jup9gRv/NTKverFNmxr+ZaQdHeSc1H+JrzS58LYfwBXgbDsNAM4DP6J97NGFLCYAPoxAwJuLcgXc6aaeRKD0R9i+RLGGEgntmMyhwxN41M7EHuKNizwo9ERBjLUx4txAMu2q2WxdReJ+8n77csvyyaqJ8fZBQuDtscKJ9ZERqVWJUkydr21KulyVwbinNUzmDp//cjeO0sRFRJEHZ6vYxZs0paOsYbq0Gtz6RhNs4F9rTk6JdfAUdAz3uHdCzkwKdO5WOcTZ6h3O2bz6V/+iBkzb7B/JEAHmYYEQ2Vhz2Yz+wBBTkAAdPUZiD0SO/MFYloZycDUox3g1LJprGrxTLngWvHmAnRq87hldEVyj2jp8+i5/0P6ENKOTus0lhCT14UGFBIJthDqznTRj398wDS7MyOxsrYqhjXvRx4ULreY79xkQ47R2NxE5pUc+ctDQPqnouIjQxFJY2PHXPLAQ/sMcbegsC4EDSObzCRkXrOgZqenuikYMaZxupw1iiAN0gDza5lFTvDgK7rNU3d290jnjTjj5DLtt6NOPbxEsy6igrf/ohm/mGYH9xtWxXu97Fag+4ValviY8sm2cLE3pTol5D6QPO+dJnnuTMLoP46KGdZjZz9THnqfpFlrxMdVAqeg2VkTLOy2Atla+ktYYEMdxYCDv5Ga08351WNvROvqsLLXHKc/reIuf7OL2YatVFcdppnUtvSm9+kYCodwm8Jp5m/fSRYY/PaybdJ/AStZ38DPEY0gsXhZ1jrFYhniqSEE/PBrFEQUcC4hKmxo8NTsSY2JAMLexhlktdJc8gn4bDsvxzOg0fkTH1FRHYA6Z6R5XZP6pWYN+Dwx5t1juuJMp3H83VGtidMzXW+8aULhPMkzObuUSQGdnxEzsGuX7EP5G9pHG2QK43BfJ6qhrYV/H9Y9ZKkidkVYGpoti8tch3E2/aWuQnBeffWuiyGa7acgRQonDSwGAme9t1LuH+lTFWqhZUL8mlC+WjCuMQJzJrE9WLFykQwkTH73SxZnEVPFUvLtTr1/8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:18:15.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="f-SXdfJ4d94dgBrhHxUt" version="20.8.20" type="github">
+  <diagram name="ページ1" id="uw2IV64ag2YVH6CRgAxx">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qPcaG2clazkTzMnNs_vK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-4" target="qPcaG2clazkTzMnNs_vK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="300" />
+              <mxPoint x="285" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-4" target="qPcaG2clazkTzMnNs_vK-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-4" target="qPcaG2clazkTzMnNs_vK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-4" target="qPcaG2clazkTzMnNs_vK-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="300" />
+              <mxPoint x="885" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-4" value="&amp;lt; namespace &amp;gt;&lt;br&gt;DesinSetting&lt;br&gt;PortText&lt;br&gt;Library&lt;br&gt;DRC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="180" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-6" value="&amp;lt; class &amp;gt;&lt;br&gt;LM_DesignSetting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-7" value="&amp;lt; class &amp;gt;&lt;br&gt;LM_PortText" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-9" value="&amp;lt; class &amp;gt;&lt;br&gt;LM_Library" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-10" value="&amp;lt; class &amp;gt;&lt;br&gt;LM_DRC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-15" value="- struct PortData&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-16" value="- class DesignData" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-17" value="ResistLirary()&lt;br&gt;UpdateLibrary()&lt;br&gt;DeleteLibrary()&lt;br&gt;CreateBackup()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="410" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-19" value="DRC_CheckBom&lt;br&gt;DRC_Check..&lt;br&gt;.&lt;br&gt;.&lt;br&gt;." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="410" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-20" value="namespace&amp;nbsp;&lt;br&gt;LayoutManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-23" value="&amp;nbsp;+ CreateDiniFile()&lt;br&gt;+ ReadDiniFile()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-24" value="+ ReadPortText()&lt;br&gt;&amp;nbsp;+ ReadPiniFile()&lt;br&gt;+ ImportFromCAD()&lt;br&gt;+ ExportToCAD()&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPcaG2clazkTzMnNs_vK-28" target="qPcaG2clazkTzMnNs_vK-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.581;exitY=-0.045;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-27" target="qPcaG2clazkTzMnNs_vK-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-26" target="qPcaG2clazkTzMnNs_vK-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-29" target="qPcaG2clazkTzMnNs_vK-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qPcaG2clazkTzMnNs_vK-25" target="qPcaG2clazkTzMnNs_vK-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-25" value="&amp;lt; class &amp;gt;&lt;br&gt;DesignData" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-26" value="&amp;lt; struct &amp;gt;&lt;br&gt;Chip" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="15" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-27" value="&amp;lt; struct &amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Wire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-28" value="&amp;lt; struct &amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Layer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-29" value="&amp;lt; struct &amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Pad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-35" value="&amp;lt; c++ &amp;gt;&lt;br&gt;.dll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPcaG2clazkTzMnNs_vK-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qPcaG2clazkTzMnNs_vK-35" target="qPcaG2clazkTzMnNs_vK-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="550" as="sourcePoint" />
+            <mxPoint x="680" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
